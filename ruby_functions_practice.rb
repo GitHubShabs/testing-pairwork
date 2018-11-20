@@ -21,3 +21,7 @@ end
 def length_of_string(length)
   return "Abcdefghijklmnopqrstu".length
 end
+
+def join_string("a","b")
+  return "a" + "b
+end
